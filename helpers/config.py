@@ -1,4 +1,4 @@
-GOOGLE_GEOCODE_API_SECRET_KEY = 'AIzaSyCOD3KvY2DDzEfel-NZ_LKIWXr86EF_EUw'
+GOOGLE_GEOCODE_API_SECRET_KEY = ''
 GOOGLE_GEOCODE_API_URL = 'https://maps.googleapis.com/maps/api/geocode'
 ACCEPTED_OUTPUT_FORMATS = ['xml', 'json']
 
